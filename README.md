@@ -15,7 +15,7 @@ a javafx music player implementation of Kugou7
     8. 桌面歌词秀
 
 ### 程序截图
-  ![screen](https://github.com/dongfangshangren/Zplayer/blob/master/resource/screen.png "github")
+  ![screen](https://github.com/zhou-test/Zplayer/blob/master/resource/screen.png "github")
 
 ### 作者博客
   (http://blog.zhouhaocheng.cn)
